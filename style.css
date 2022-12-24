@@ -5,7 +5,7 @@
 }
 
 body{
-  background-image: linear-gradient(0deg, #F020F0 , #80F0F0);
+  background-color: black;
   color: white ;
   font-family: 'Poppins' , 'sans-serif' ;
   min-height: 100vh ;
@@ -22,18 +22,21 @@ header , form {
   align-items: center;
 }
 
-form input , form button{
+form input{
   padding: 1rem;
   font-size: 1rem;
-  border: none;
-  background: white;
+  border: 1px solid #F050F0;
+  background: black;
 }
 
 form button{
   color: #F050F0;
-  background: white;
+  background: black;
   cursor: pointer;
   transition: all 1s ease;
+  padding: 1rem;
+  font-size: 1rem;
+  border: 8px solid;
 }
 
 form button:hover{
