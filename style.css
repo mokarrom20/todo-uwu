@@ -25,7 +25,7 @@ header , form {
 form input{
   padding: 1rem;
   font-size: 1rem;
-  border: 1px solid #F050F0;
+  border: 8px solid #F050F0;
   background: black;
 }
 
