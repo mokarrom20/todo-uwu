@@ -27,6 +27,7 @@ form input{
   font-size: 1rem;
   border: 8px solid #F050F0;
   background: black;
+  color: white;
 }
 
 form button{
